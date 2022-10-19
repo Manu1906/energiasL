@@ -2,7 +2,7 @@
     margin-top: 20px;
 }
 
-.h2-sub_eolica {
+.h2-sub_geotermica {
     font-size: 3rem;
     font-family: 'Poppins', sans-serif;
     color: #ca4300;
@@ -56,20 +56,15 @@ h2{
     margin-bottom: 20px;
     margin-left: 25px;
 }
-.imagen3{
-    width: 100%;
-    position:static;
-    margin-bottom: 20px;
-    margin-left: 1px;
-}
-.hero_eolica{
+.hero_geotermica{
     width: 100%;
     height: 70vh;
-    background: url("https://imagenes.lainformacion.com/files/twitter_thumbnail/uploads/imagenes/2021/02/23/energia-eolica.png") center no-repeat;
+    background: url("https://www.bbva.com/wp-content/uploads/2021/06/BBVA-energia-geotermica-sostenibilidad.jpg") center no-repeat;
     background-size: cover;
     display: flex;
     align-items: center;
     text-align: center;}
+    
     
 
 

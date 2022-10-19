@@ -11,10 +11,11 @@
 }
 
 html {
-    font-family: 'Poppins', sans-serif;
+    /* font-family: 'Poppins', sans-serif; */
     font-size: 10px;
     color: #000;
     scroll-behavior: smooth;
+    
 }
 
 body {
@@ -155,21 +156,14 @@ header {
 .hero {
     width: 100%;
     height: 70vh;
-    background: url("https://www.enel.com/content/dam/enel-com/immagini/master-azienda_2400x1160/storie_2400x1160/diga-acqua_2400x1160.jpg") center no-repeat;
+    background: url("https://blog.naturlider.com/wp-content/uploads/2020/03/AdobeStock_309195144-post-dia-mundial-naturaleza.jpeg") center no-repeat;
     background-size: cover;
     display: flex;
     align-items: center;
     text-align: center;
 }
-.hero_eolica{
-    width: 100%;
-    height: 70vh;
-    background: url("https://imagenes.lainformacion.com/files/twitter_thumbnail/uploads/imagenes/2021/02/23/energia-eolica.png") center no-repeat;
-    background-size: cover;
-    display: flex;
-    align-items: center;
-    text-align: center;
-}
+
+
 
 
 .h2-sub {
@@ -181,12 +175,12 @@ header {
 }
 
 .fil {
-    text-transform: uppercase;
+    text-transform:uppercase;
     font-size: 3rem;
 }
 
 .head {
-    color: rgb(6, 3, 3);
+    color: rgb(0, 0, 0);
     font-size: 3.7rem;
     font-family: 'Poppins', sans-serif;
     text-transform: uppercase;
